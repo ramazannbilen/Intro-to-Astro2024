@@ -1,5 +1,6 @@
 # How to Read Scientific Papers
 
+
 by Isabel Angelo, Sarah Blunt & Tim Holt (2018, updated 2022)
 
 In this introduction, we suggest some techniques for effectively reading a scientific paper. We also provide resources that are commonly used in astronomy to make finding, reading, and storing papers much easier.
